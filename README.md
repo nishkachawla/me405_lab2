@@ -9,7 +9,7 @@
 ###### We can see that the extended oscillations delay the settling time of the system with no added benefit of any significant increase in accuracy, making this value of Kp less than optimal.
 
 ### Step Repsonse Plots
-SR_0.01.png
+https://github.com/nishkachawla/me405_lab2/blob/main/SR_0.01.png
 
 /Users/nishkachawla/me405_lab2/SR_0.01.png
 
